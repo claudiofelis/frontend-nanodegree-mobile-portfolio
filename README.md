@@ -28,6 +28,16 @@
   #### DEMO
 [See here](http://www.claudiofelis.com.br/udacity/).
 
+
+  ### Grunt for Image optmization
+
+  You can use Grunt to generate optimized versions of the images in this project. 
+
+  1. Run `npm install` in the root folder to install all dependencies
+  2. Run `grunt` in the root folder to trigger the optimization script.
+
+  Check the [grunt documentation](https://gruntjs.com/installing-grunt) for more information.
+
   ## Work done
 
   ### index.htm, project-2058.html, project-mobile.html and project-webpeft.html
