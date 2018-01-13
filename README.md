@@ -8,20 +8,20 @@
   1. Check out the repository
   2. run a local server
 
-    ```bash
-    $> cd /path/to/your-project-folder
-    $> python -m SimpleHTTPServer 8080
-    ```
+  ```bash
+  $> cd /path/to/your-project-folder
+  $> python -m SimpleHTTPServer 8080
+  ```
 
   3. Open a browser and visit localhost:8080
 
   #### To get a public URL
   1. Download and install [ngrok](https://ngrok.com/) to the top-level of your project directory to make your local server accessible remotely.
 
-    ``` bash
-    $> cd /path/to/your-project-folder
-    $> ./ngrok http 8080
-    ```
+  ``` bash
+  $> cd /path/to/your-project-folder
+  $> ./ngrok http 8080
+  ```
 
   2. Copy the public URL ngrok you can use this URL to use PageRank.
   
